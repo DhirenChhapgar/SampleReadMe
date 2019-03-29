@@ -1,11 +1,11 @@
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
 
-[Name Of Project]
+{Name Of Project}
 ==================================
-[Brief Description Of Project]
+{Brief Description Of Project}
 
 ### Prerequisites
-Examples:
+{Examples:}
 * Acumatica 2017 R2 (17.209.0028 or higher) 
 * Acumatica 2018 R1 (18.102.0048 or higher)
 * Acumatica 2018 R2 (18.200.0075 or higher)
@@ -17,18 +17,17 @@ Quick Start
 ### Installation
 
 ##### Install customization deployment package
-[Deployment Instructions if applicable]
+{Deployment Instructions if applicable}
 
 ### Usage
 
-[How to use this including configuration if applicable]
+{How to use this including configuration if applicable}
 
 Known Issues
 ------------
 None at the moment
 
 ## Copyright and License
-[MIT Or GPL]
 Copyright © `2018` `Acumatica`
 
 This component is licensed under the MIT License, a copy of which is available online [here](LICENSE.md)
