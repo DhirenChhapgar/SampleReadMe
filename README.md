@@ -1,8 +1,8 @@
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
 
-{Name Of Project}
+{Name of project}
 ==================================
-{Brief Description Of Project}
+{Brief description of project}
 
 ### Prerequisites
 {Examples:}
