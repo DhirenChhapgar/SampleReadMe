@@ -28,6 +28,6 @@ Known Issues
 None at the moment
 
 ## Copyright and License
-Copyright © `2018` `Acumatica`
+Copyright © `2019` `Acumatica`
 
 This component is licensed under the MIT License, a copy of which is available online [here](LICENSE.md)
